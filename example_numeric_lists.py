@@ -1,3 +1,9 @@
+# Name: Kendall Outlaw
+# Date: 01/29/2023
+# Data Analysis Fundamentals Project 3 
+# Domain: Timesheet
+# Purpose : The purpose is to practice using list with numbers
+
 """
 
 Examples of numeric lists
@@ -77,6 +83,8 @@ yvalues_list = [2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31, 32]
 # Descriptive: Averages and measures of central tendency
 # Use statisttics module to get mean, median, mode
 # for a values list
+
+#testing
 
 mean = statistics.mean(score_list)
 median = statistics.median(score_list)

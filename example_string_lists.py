@@ -1,3 +1,10 @@
+# Name: Kendall Outlaw
+# Date: 01/29/2023
+# Data Analysis Fundamentals Project 3 
+# Domain: Timesheet
+# Purpose : The purpose is to practice using list with strings
+
+
 """
 Examples of using string lists
 """

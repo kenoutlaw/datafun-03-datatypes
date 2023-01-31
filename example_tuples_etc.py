@@ -1,3 +1,11 @@
+# Name: Kendall Outlaw
+# Date: 01/29/2023
+# Data Analysis Fundamentals Project 3 
+# Domain: Timesheet
+# Purpose : The purpose is to practice using tuples, sets, and dictionaries 
+
+
+
 """
 Tuples, sets, and dictionaries are all iterable objects. 
 That means that they can be used in a for loop.
