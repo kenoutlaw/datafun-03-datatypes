@@ -1,9 +1,9 @@
 """
-# Name: Kendall Outlaw
-# Date: 01/29/2023
-# Data Analysis Fundamentals Project 3 
-# Domain: Timesheet
-# Purpose : The purpose is to complete the exercises using list with strings
+Name: Kendall Outlaw
+Date: 01/29/2023
+Data Analysis Fundamentals Project 3 
+Domain: Timesheet
+Purpose : The purpose is to complete the exercises using list with strings
 """
 # lists of company sections, equipment, and other attributes
 

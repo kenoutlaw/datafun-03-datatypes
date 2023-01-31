@@ -1,10 +1,10 @@
 
 """
-# Name: Kendall Outlaw
-# Date: 01/29/2023
-# Data Analysis Fundamentals Project 3 
-# Domain: Timesheet
-# Output: This is the output file from the exercises using numeric lists
+Name: Kendall Outlaw
+Date: 01/29/2023
+Data Analysis Fundamentals Project 3 
+Domain: Timesheet
+Output: This is the output file from the exercises using numeric lists
 """
 
 # List 1. List Statistics
