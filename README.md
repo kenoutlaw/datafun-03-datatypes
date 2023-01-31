@@ -1,11 +1,11 @@
 
-# Name: Kendall Outlaw
-# Date: 01/29/2023
-# Data Analysis Fundamentals Project 3 
-# Domain: Timesheet
-# Purpose: The purpose of this project is to learn how to use common data structures and their usages such as sequences, lists and tuples, and collections, including dictionaries (key-value pairs) and sets
-
-# datafun-03-datatypes
+"""
+Name: Kendall Outlaw
+Date: 01/29/2023
+Data Analysis Fundamentals Project 3 
+Domain: Timesheet
+Purpose: The purpose of this project is to learn how to use common data structures and their usages such as sequences, lists and tuples, and collections, including dictionaries (key-value pairs) and sets
+"""
 
 > Practice with Python data types, filter(), map(), and list comprehensions
 Completed Task Above
